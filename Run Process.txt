@@ -1,0 +1,9 @@
+/* How to Run Java Program
+Step 1:Save it
+       program_Name.java
+   Note:Your Program name and main method  class name must be same
+Step 2:Start Command Prompt And Compile Program
+       javac program_Name.java
+Step 3:Interpret the Program  
+        java program_Name
+ */
