@@ -1,7 +1,7 @@
 // Q1) Write a Java program to read three numbers as a dynamic input and perform addition operation over the provided numbers?
 
 import java.util.*;
-class Test{
+class ScannerDemo{
 	public static void main(String[] args){
 		Scanner s = new Scanner(System.in);
 		
