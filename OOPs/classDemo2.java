@@ -12,7 +12,7 @@ class  Employee
 			System.out.println("-----------------------");
 			System.out.println("Employee Number :"+eno);
 			System.out.println("Employee Salary :"+esal);
-			System.out.print("Employee Address  :"+eaddr);
+			System.out.println("Employee Address  :"+eaddr);
 
 		}
 	
@@ -30,8 +30,8 @@ class Student{
 			System.out.println("-----------------------");
 			System.out.println("Student Id :"+sid);
 			System.out.println("Student Name :"+sname);
-			System.out.print("Student Email  :"+semail);
-			System.out.print("Student Mobile  :"+smobile);
+			System.out.println("Student Email  :"+semail);
+			System.out.println("Student Mobile  :"+smobile);
 
 		}
 
