@@ -1,3 +1,4 @@
+//interface concept Program
 interface I
 {
 	int x=10; //public static final
