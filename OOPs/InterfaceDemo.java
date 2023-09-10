@@ -10,7 +10,7 @@ interface I
 
 class A implements I
 {
-	//x  is available here as apublic static final variable
+	//x  is available here as a public static final variable
 	public void m1()
 	{
 		System.out.println("m1-A");
