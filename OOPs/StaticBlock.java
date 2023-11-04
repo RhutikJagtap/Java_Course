@@ -1,4 +1,4 @@
-//Program For Static Variable
+//Program For Static Block
 class A{
 	int i=10;
 	static int j=20;
