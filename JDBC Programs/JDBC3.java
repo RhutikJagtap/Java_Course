@@ -18,7 +18,7 @@ public class JDBC3 {
 		String query = "delete from student where id=2";
 
 		try {
-			// regisater the Driver Class
+			// register the Driver Class
 			Class.forName("com.mysql.cj.jdbc.Driver");
 
 			// create Connection
