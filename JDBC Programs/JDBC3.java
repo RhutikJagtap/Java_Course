@@ -30,7 +30,7 @@ public class JDBC3 {
 			// execute queries
 			st.executeUpdate(query);
 
-      // close the connection
+                        // close the connection
 			con.close();
 
 		} catch (Exception e) {
