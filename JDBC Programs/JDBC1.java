@@ -17,7 +17,7 @@ public class JDBC1{
 		String query = "insert into student values(1,'Rhutik',88.65)";  // single quote must for 'Rhutik'
 
 		try {
-			// regisater the Driver Class
+			// register the Driver Class
 			Class.forName("com.mysql.cj.jdbc.Driver");
 
 			// create Connection
