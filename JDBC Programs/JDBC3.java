@@ -40,7 +40,7 @@ public class JDBC3 {
 		return "data deleted Succesfully";
 	}
 
-  //main method
+        //main method
 	public static void main(String[] args) {
 		JDBC3 jdbc3 = new JDBC3();
 		String msg = jdbc3.deleteData();
