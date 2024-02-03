@@ -8,7 +8,7 @@ import java.sql.Statement;
 public class  CreateTable{
 	public static void main(String[] args) {
 		try {
-			// regisater the Driver Class
+			// register the Driver Class
 			Class.forName("com.mysql.cj.jdbc.Driver");
 
 			String url = "jdbc:mysql://localhost:3306/JDBC1";
