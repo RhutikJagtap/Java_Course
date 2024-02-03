@@ -26,7 +26,7 @@ public class JDBC2 {
 			// create Statement
 			Statement st = con.createStatement();
 
-      // execute query
+                        // execute query
 			st.executeUpdate(query);
 
 		} catch (Exception e) {
