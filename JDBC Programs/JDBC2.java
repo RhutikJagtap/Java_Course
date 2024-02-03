@@ -17,7 +17,7 @@ public class JDBC2 {
 		String query = "update  student set name='Kunal' where id=1";  // single quote must 'kunal'
 
 		try {
-			// regisater the Driver Class
+			// register the Driver Class
 			Class.forName("com.mysql.cj.jdbc.Driver");
 
 			// create Connection
@@ -39,6 +39,7 @@ public class JDBC2 {
 		return "data updated Successfully";
 	}
 
+	//main method
 	public static void main(String[] args) {
 		JDBC2 jdbc2 = new JDBC2();
 		String msg = jdbc2.updateData();
