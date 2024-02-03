@@ -6,7 +6,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class JDBC5 {
+public class JDBC4 {
 	String url = "jdbc:mysql://localhost:3306/JDBC1";
 	String username = "root";
 	String password = "rj@5588";
@@ -50,8 +50,8 @@ public class JDBC5 {
 
 	//main method
 	public static void main(String[] args) {
-		JDBC5 j = new JDBC5();
-		j.fetchData();
+		JDBC4 jdbc4 = new JDBC4();
+		jdbc4.fetchData();
 	}
 
 }
