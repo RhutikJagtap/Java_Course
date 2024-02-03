@@ -40,6 +40,8 @@ public class JDBC8 {
 				System.out.println("=====================");
 
 			}
+			// close the connection
+			con.close();
 
 		} catch (Exception e) {
 			e.printStackTrace();
