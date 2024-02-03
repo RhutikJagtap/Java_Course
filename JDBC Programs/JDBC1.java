@@ -5,7 +5,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
 
-public class JDBC2{
+public class JDBC1{
 
 	String url = "jdbc:mysql://localhost:3306/JDBC1";
 	String username = "root";
