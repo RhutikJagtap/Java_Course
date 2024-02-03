@@ -23,7 +23,7 @@ public class JDBC5 {
 
 			// PreparedStatement
 			PreparedStatement pst = con.prepareStatement(query);
-      //column_no and field
+                        //column_no and field
 			pst.setInt(1, id);
 			pst.setString(2, name);
 			pst.setDouble(3, mark);
