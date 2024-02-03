@@ -1,4 +1,4 @@
-//update data using preparedStatement
+//JDBC Program to update data using preparedStatement
 
 package com.demo;
 
