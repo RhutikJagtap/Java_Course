@@ -29,6 +29,9 @@ public class JDBC1{
 			// execute queries
 			st.executeUpdate(query);
 
+			// close the connection
+			con.close();
+
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
