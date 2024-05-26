@@ -1,3 +1,4 @@
+//write a java program to sort array elements in ascending order
 import java.util.Scanner;
 
 class ArrSort {
