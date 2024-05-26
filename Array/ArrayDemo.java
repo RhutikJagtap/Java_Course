@@ -1,4 +1,4 @@
-//Program how to create Array
+//Program how to create single dimension Array
 import java.util.Scanner;
 
 public class ArrayDemo {
