@@ -2,15 +2,14 @@
 
 Repository  contains Every thing about  java programming.
 1. Java Fundamentals
-2. pattern Programs
-3. Logic Based Programming
-4. Array
-5. OOPS
-6. String ,StringBuffer,StringBuilder
-7. Exception Handling
-8. Multithreading
-9. JDBC
-10. Hibernate
+2. Logic Based Programming
+3. Array
+4. OOPS
+5. String ,StringBuffer,StringBuilder
+6. Exception Handling
+7. Multithreading
+8. JDBC
+9. Hibernate
 
 
 Repository contains collections framework programs in java.
